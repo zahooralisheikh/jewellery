@@ -22,7 +22,6 @@ import com.finalproject.jewellery.model.Product;
 import com.finalproject.jewellery.service.CategoryService;
 
 import com.finalproject.jewellery.service.ProductService;
-import com.paytm.miniapp.http.HttpService;
 
 @Controller
 public class AdminController {
